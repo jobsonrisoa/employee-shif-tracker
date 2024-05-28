@@ -24,9 +24,9 @@ The Employee Shift Tracker API is designed to manage employee data and track the
 
 ### Installation
 
+```sh
 1. Clone the repository:
 
-```sh
 git clone https://github.com/yourusername/employee-shift-tracker.git](https://github.com/jobsonrisoa/employee-shif-tracker
 cd employee-shift-tracker
 
